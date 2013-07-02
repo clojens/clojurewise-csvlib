@@ -2,6 +2,7 @@ syntax glob
 *.jar
 *.log
 lib
+target/
 classes
 log*
 README.html
