@@ -1,0 +1,7 @@
+syntax glob
+
+lib
+classes
+log*
+README.html
+pom.xml
