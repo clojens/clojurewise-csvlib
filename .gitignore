@@ -3,6 +3,7 @@ syntax glob
 *.log
 lib
 target/
+.lein-*
 classes
 log*
 README.html
