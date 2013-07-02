@@ -64,6 +64,13 @@ Writing
     ; Use a different delimiter
     (write-csv [[1 2 3] [4 5 6]] "points.csv" :delimiter \|)
 
+Testing
+-------
+
+::
+    lein test
+
+
 License
 =======
 Copyright (C) 2010 Miki Tebeka <miki.tebeka@gmail.com>
